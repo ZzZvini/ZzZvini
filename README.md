@@ -1,8 +1,10 @@
 ### Olá meu nome é Vinicios Silva 
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/vinicios-silva01/)
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/roberto-oliveiira/)
+https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white](https://www.facebook.com/profile.php?id=100011614320999)
 !https://github-readme-stats.vercel.app/api?username=RoberttoOliveira&show_icons=true&theme=radical
 https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Tecnologias que eu uso no dia a dia 
 
